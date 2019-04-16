@@ -1,4 +1,4 @@
-// Written by Maxfield Gordon
+// Written by Maxfield Gordon & David Vasilia
 // Last updated April 18, 2019
 
 'use strict';
